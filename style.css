@@ -8,5 +8,8 @@ font-size:50px;
 text-align:center,
 }
 .top1{
-background-color:rgb(17, 16, 16)
+background-color:rgb(17, 16, 16);
+color:red;
+text-align:center;
+padding:40px;
 }
